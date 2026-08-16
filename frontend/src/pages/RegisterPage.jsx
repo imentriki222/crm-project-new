@@ -43,7 +43,7 @@ export default function RegisterPage() {
           <div className="bg-indigo-600 p-2 rounded-xl text-white shadow-lg shadow-indigo-600/40">
             <BrainCircuit className="h-6 w-6" />
           </div>
-          <h1 className="text-xl font-bold text-white font-heading">Antigravity CRM</h1>
+          <h1 className="text-xl font-bold text-white font-heading">LeadFlow CRM</h1>
         </div>
 
         <div className="glass-card rounded-3xl p-8">

@@ -39,7 +39,7 @@ function Sidebar() {
             <BrainCircuit className="h-6 w-6" />
           </div>
           <div>
-            <h1 className="text-lg font-bold text-white tracking-tight leading-none font-heading">Antigravity</h1>
+            <h1 className="text-lg font-bold text-white tracking-tight leading-none font-heading">LeadFlow CRM</h1>
             <span className="text-[10px] text-slate-400 font-semibold tracking-wider uppercase">CRM & Automation</span>
           </div>
         </div>

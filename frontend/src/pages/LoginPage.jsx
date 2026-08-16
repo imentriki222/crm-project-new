@@ -38,7 +38,7 @@ export default function LoginPage() {
             <BrainCircuit className="h-7 w-7" />
           </div>
           <div>
-            <h1 className="text-2xl font-bold text-white font-heading">Antigravity</h1>
+            <h1 className="text-2xl font-bold text-white font-heading">LeadFlow CRM</h1>
             <span className="text-xs text-slate-400 font-semibold uppercase tracking-widest">CRM & Marketing Automation</span>
           </div>
         </div>
@@ -65,7 +65,7 @@ export default function LoginPage() {
           </div>
         </div>
 
-        <p className="relative text-xs text-slate-500">© 2026 Antigravity CRM. Powered by Laravel + React.</p>
+        <p className="relative text-xs text-slate-500">© 2026LeadFlow CRM CRM. Powered by Laravel + React.</p>
       </div>
 
       {/* Form panel */}
@@ -75,7 +75,7 @@ export default function LoginPage() {
             <div className="bg-indigo-600 p-2 rounded-xl text-white">
               <BrainCircuit className="h-6 w-6" />
             </div>
-            <h1 className="text-xl font-bold text-white font-heading">Antigravity CRM</h1>
+            <h1 className="text-xl font-bold text-white font-heading">LeadFlow CRM CRM</h1>
           </div>
 
           <h2 className="text-3xl font-bold text-white font-heading mb-2">Welcome back</h2>
